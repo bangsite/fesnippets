@@ -1,0 +1,3 @@
+packages:
+  - packages/*  # Project child
+  - shared/*    # Library common

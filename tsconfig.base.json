@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "moduleResolution": "Node",
+    "strict": true,
+    "baseUrl": "./",
+    "paths": {
+      "@shared/*": ["shared/*"]
+    }
+  }
+}
